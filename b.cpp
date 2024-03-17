@@ -31,18 +31,28 @@
 // 
 // }
 
+// #include <bits/stdc++.h>
+// using namespace std ;
+// int main() 
+// {
+// int count = 0 ;
+// int arr[]={1,1,1,2,2,2,2};
+// for (int i = 0 ; i <7 ; i++){
+//     for ( int j = 1 ; j <= 7 ; j++){
+//         if (arr[i]==arr[j]){
+//             count = count +1;
+//         }
+//     }
+// }
+// cout<<count;
+// }
+
+
 #include <bits/stdc++.h>
 using namespace std ;
 int main() 
 {
-int count = 0 ;
-int arr[]={1,1,1,2,2,2,2};
-for (int i = 0 ; i <7 ; i++){
-    for ( int j = 1 ; j <= 7 ; j++){
-        if (arr[i]==arr[j]){
-            count = count +1;
-        }
-    }
-}
-cout<<count;
+
+int i = 0;
+cout<< i;
 }
