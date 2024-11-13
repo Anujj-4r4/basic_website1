@@ -52,7 +52,7 @@
 using namespace std ;
 int main() 
 {
-
+int store = 0 ;
 int i = 0;
 cout<< i;
 }
